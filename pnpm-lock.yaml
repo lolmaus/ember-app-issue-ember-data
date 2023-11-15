@@ -26,6 +26,9 @@ devDependencies:
   '@embroider/core':
     specifier: ^3.4.0
     version: 3.4.0
+  '@embroider/macros':
+    specifier: ^1.13.3
+    version: 1.13.3
   '@embroider/router':
     specifier: ^2.1.5
     version: 2.1.5(@embroider/core@3.4.0)
